@@ -2,7 +2,7 @@
 	"name": "requestmanager",
 	"version": "0.0.1",
 	"dependencies": {
-		"jquery": "lastest",
+		"jquery": "latest",
 		"underscore": "latest",
 		"backbone": "latest",
 		"requirejs": "latest",
